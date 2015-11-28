@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.khk.androidproject" >
+    package="com.example.khk.lknmessenger" >
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.khk.androidproject.LoginActivity"></activity>
-        <activity android:name="com.example.khk.androidproject.JoinActivity"></activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >

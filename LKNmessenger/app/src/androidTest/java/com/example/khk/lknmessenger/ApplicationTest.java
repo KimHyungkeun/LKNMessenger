@@ -1,4 +1,4 @@
-package com.example.khk.androidproject;
+package com.example.khk.lknmessenger;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
